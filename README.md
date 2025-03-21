@@ -1,6 +1,9 @@
-**This data is collected from 'Car Dekho'**
+**-This data is collected from 'Car Dekho'**
 
-**4340 rows and 8 columns in the dataset**
+**-4340 rows and 8 columns in the dataset**
+
+
+**Following are colunns details of the dataset**
 
 **name: The name of the car, including the brand and model.**
 
